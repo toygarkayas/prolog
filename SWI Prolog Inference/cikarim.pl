@@ -1,0 +1,1 @@
+:-nl,write("**Hocam biz cikarimlari odev.pl dosyasi icinde yaptik.**"),nl,nl.
